@@ -48,3 +48,5 @@ In most cases it should just require changing the prefix. The lifecycle hooks `b
 ## See Also
 
 - [Migration guide - Events API](/guide/migration/events-api.html)
+
+Maybe we could add somewhere that in vue 3 vnode-created is not supported (in vue 2 hook:created was supported)
